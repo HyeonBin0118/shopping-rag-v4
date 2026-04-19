@@ -1,0 +1,2 @@
+﻿버전,Faithfulness,Answer Relevancy,Context Precision,Context Recall
+v3 (GPT-4o-mini + Cohere Rerank + 소스필터링),0.8507,0.3879,0.7534,0.875

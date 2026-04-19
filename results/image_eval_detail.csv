@@ -1,0 +1,29 @@
+﻿query,detected_category,expected_category,category_correct,hit@1,hit@3,hit@5,result_categories,description
+unisex red and white lightweight running shoes,Sneakers,Sneakers,True,True,True,True,"['Sneakers', 'Sneakers', 'Shoes', 'Shoes', 'Shoes']",Nike 빨간 스니커즈
+white leather low-top sneakers unisex casual,Sneakers,Sneakers,True,True,True,True,"['Sneakers', 'Sneakers', 'Sneakers', 'Sneakers', 'Shoes']",흰색 캐주얼 스니커즈
+women's multicolor pastel leather sneakers casual,Sneakers,Sneakers,True,True,True,True,"['Sneakers', 'Sneakers', 'Sneakers', 'Sneakers', 'Sneakers']",흰색 하이탑 스니커즈
+white and orange athletic sneaker with air cushioning,Sneakers,Sneakers,True,True,True,True,"['Sneakers', 'Sneakers', 'Sneakers', 'Sneakers', 'Sneakers']",검정 스니커즈
+men's multicolor suede and mesh sporty sneakers casual,Sneakers,Sneakers,True,True,True,True,"['Sneakers', 'Sneakers', 'Shoes', 'Sneakers', 'Shoes']",컬러풀 러닝 스니커즈
+,ERROR,Sneakers,False,False,False,False,[],파란 스니커즈
+men's brown leather lace-up boots rugged,Boots,Boots,True,True,True,True,"['Boots', 'Boots', 'Shoes', 'Boots', 'Boots']",갈색 하이킹 부츠
+men's brown leather waterproof ankle boots outdoor,Boots,Boots,True,True,True,True,"['Boots', 'Boots', 'Shoes', 'Boots', 'Shoes']",검정 앵클 부츠
+men's brown leather ankle boots outdoor rugged,Boots,Boots,True,True,True,True,"['Boots', 'Boots', 'Shoes', 'Shoes', 'Boots']",브라운 레더 부츠
+white canvas low-top sneakers with heart design unisex,Sneakers,Boots,False,False,False,False,"['Sneakers', 'Sneakers', 'Sneakers', 'Sneakers', 'Sneakers']",워커 부츠
+women's pink high-heel patent leather shoes,Shoes,Boots,True,True,True,True,"['Shoes', 'Shoes', 'Shoes', 'Shoes', 'Shoes']",여성 하이힐 부츠
+colorful unisex printed short sleeve button-up shirts,Shirts,Boots,False,False,False,False,"['Shirts', 'Shirts', 'Shirts', 'Shirts', 'Shirts']",등산 트레킹 부츠
+unisex beige leather sandals with cork footbed,Sandals,Sandals,True,True,True,True,"['Shoes', 'Shoes', 'Shoes', 'Sandals', 'Shoes']",여름 샌들
+women's brown leather platform sandals with buckles,Sandals,Sandals,True,True,True,True,"['Shoes', 'Shoes', 'Sandals', 'Shoes', 'Shoes']",가죽 샌들
+,ERROR,Sandals,False,False,False,False,[],비치 플립플랍 샌들
+men's white cotton short sleeve t-shirt casual,Shirts,Sandals,False,False,False,False,"['Shirts', 'Shirts', 'Shirts', 'Shirts', 'Shirts']",스트랩 샌들
+men's white mesh athletic sneakers with air cushioning,Sneakers,Shoes,True,True,True,True,"['Shoes', 'Shoes', 'Shoes', 'Sneakers', 'Sneakers']",트레일 러닝화
+men's olive green athletic sneakers with black logo,Sneakers,Shoes,True,True,True,True,"['Shoes', 'Shoes', 'Shoes', 'Shoes', 'Shoes']",캐주얼 신발
+women's white and pink athletic mesh sneakers,Sneakers,Shoes,True,True,True,True,"['Shoes', 'Shoes', 'Sneakers', 'Shoes', 'Shoes']",로퍼 신발
+,ERROR,Shoes,False,False,False,False,[],남성 드레스 슈즈
+variety of women's dresses and tops casual,Shirts,Shoes,False,False,False,False,"['Shirts', 'Shirts', 'Shirts', 'Shirts', 'Shirts']",여성 플랫 슈즈
+black athletic running shoe with lace-up design,Sneakers,Shoes,True,True,True,True,"['Shoes', 'Shoes', 'Shoes', 'Shoes', 'Sneakers']",러닝화
+black leather biker jacket with zippers for men,Jackets,Jackets,True,True,True,True,"['Jackets', 'Jackets', 'Jackets', 'Jackets', 'Jackets']",아웃도어 자켓
+unisex brown bomber jacket with zipper pockets lightweight,Jackets,Jackets,True,True,True,True,"['Jackets', 'Jackets', 'Jackets', 'Jackets', 'Jackets']",겨울 패딩 자켓
+women's olive green utility jacket casual,Jackets,Jackets,True,True,True,True,"['Jackets', 'Jackets', 'Jackets', 'Jackets', 'Jackets']",가죽 바이커 자켓
+men's blue plaid blazer with brown leather gloves,Other,Jackets,False,False,False,False,"['Shoes', 'Shoes', 'Shoes', 'Shoes']",데님 자켓
+men's black quilted jacket with zipper casual wear,Jackets,Jackets,True,True,True,True,"['Jackets', 'Jackets', 'Jackets', 'Jackets', 'Jackets']",후드 윈드브레이커
+women's camel wool belted trench coat formal,Jackets,Jackets,True,True,True,True,"['Jackets', 'Jackets', 'Jackets', 'Jackets', 'Jackets']",플리스 자켓
