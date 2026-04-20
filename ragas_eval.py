@@ -320,6 +320,4 @@ if __name__ == "__main__":
     os.makedirs("results", exist_ok=True)
     df_summary.to_csv("results/ragas_results.csv", index=False, encoding="utf-8-sig")
     df_detail.to_csv("results/ragas_results_detail.csv", index=False, encoding="utf-8-sig")
-    print("\n📊 결과 저장 완료: results/ragas_results.csv")
-    print("📊 세부 결과 저장 완료: results/ragas_results_detail.csv")
-    print("\n💡 이 수치를 README에 넣으세요!")
+    

@@ -299,6 +299,3 @@ if __name__ == "__main__":
     }])
     summary.to_csv("results/image_eval_results.csv", index=False, encoding="utf-8-sig")
     df.to_csv("results/image_eval_detail.csv", index=False, encoding="utf-8-sig")
-    print("\n📊 결과 저장 완료: results/image_eval_results.csv")
-    print("📊 세부 결과 저장 완료: results/image_eval_detail.csv")
-    print("\n💡 이 수치를 README에 넣으세요!")
